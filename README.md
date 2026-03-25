@@ -22,10 +22,10 @@
 
 | Role                                | View Resume                                                                                            |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| 🔹 **Senior React Native Engineer** | [Open](https://abdulmoizshaikh.github.io/resumes-site/Muhammad_Moiz_Senior_React_Native_Engineer.html) |
-| 🔹 **Full Stack Engineer**          | [Open](https://abdulmoizshaikh.github.io/resumes-site/Muhammad_Moiz_Full-Stack_Engineer.html)          |
-| 🔹 **Senior Frontend Engineer**     | [Open](https://abdulmoizshaikh.github.io/resumes-site/Muhammad_Moiz_Senior_Frontend_Engineer.html)     |
-| 🔹 **Backend Engineer**             | [Open](https://abdulmoizshaikh.github.io/resumes-site/Muhammad_Moiz_Backend_Engineer.html)             |
+| 🔹 **Senior React Native Engineer** | [Open](https://abdulmoizshaikh.github.io/resumes-site/RN.html) |
+| 🔹 **Full Stack Engineer**          | [Open](https://abdulmoizshaikh.github.io/resumes-site/FS.html)          |
+| 🔹 **Senior Frontend Engineer**     | [Open](https://abdulmoizshaikh.github.io/resumes-site/FE.html)     |
+| 🔹 **Backend Engineer**             | [Open](https://abdulmoizshaikh.github.io/resumes-site/BE.html)             |
 
 ---
 
