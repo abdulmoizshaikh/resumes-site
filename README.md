@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://abdulmoizshaikh.github.io/resumes-site/">
+  <a href="https://abdulmoizshaikh.github.io/resumes-site/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Site-Visit-blue?style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/Hosted_on-GitHub_Pages-black?style=for-the-badge&logo=github" />
@@ -20,18 +20,19 @@
 
 ### 🔗 Quick Access
 
-| Role                                | View Resume                                                                                            |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| 🔹 **Senior React Native Engineer** | [Open](https://abdulmoizshaikh.github.io/resumes-site/RN.html) |
-| 🔹 **Full Stack Engineer**          | [Open](https://abdulmoizshaikh.github.io/resumes-site/FS.html)          |
-| 🔹 **Senior Frontend Engineer**     | [Open](https://abdulmoizshaikh.github.io/resumes-site/FE.html)     |
-| 🔹 **Backend Engineer**             | [Open](https://abdulmoizshaikh.github.io/resumes-site/BE.html)             |
+| Role                                | View Resume                                                                               |
+| ----------------------------------- | ----------------------------------------------------------------------------------------- |
+| 🔹 **Senior React Native Engineer** | <a href="https://abdulmoizshaikh.github.io/resumes-site/RN.html" target="_blank">Open</a> |
+| 🔹 **Full Stack Engineer**          | <a href="https://abdulmoizshaikh.github.io/resumes-site/FS.html" target="_blank">Open</a> |
+| 🔹 **Senior Frontend Engineer**     | <a href="https://abdulmoizshaikh.github.io/resumes-site/FE.html" target="_blank">Open</a> |
+| 🔹 **Backend Engineer**             | <a href="https://abdulmoizshaikh.github.io/resumes-site/BE.html" target="_blank">Open</a> |
 
 ---
 
 ## 🌐 Live Preview
 
-👉 https://abdulmoizshaikh.github.io/resumes-site/
+👉 <a href="https://abdulmoizshaikh.github.io/resumes-site/" target="_blank">
+https://abdulmoizshaikh.github.io/resumes-site/ </a>
 
 ---
 
